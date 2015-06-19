@@ -1,0 +1,25 @@
+Query grouped by 5s : 
+Time : 1873.57497215 ms
+Size : 34561 samples
+Size : 280 octets
+
+Query grouped by 10s : 
+Time : 1330.65009117 ms
+Size : 17281 samples
+Size : 280 octets
+
+Query grouped by 30s : 
+Time : 1333.36281776 ms
+Size : 5761 samples
+Size : 280 octets
+
+Query grouped by minute : 
+Time : 1175.89187622 ms
+Size : 2881 samples
+Size : 280 octets
+
+Query grouped by 2 minutes : 
+Time : 1160.62092781 ms
+Size : 1441 samples
+Size : 280 octets
+
